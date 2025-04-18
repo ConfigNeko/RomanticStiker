@@ -1,0 +1,323 @@
+[{
+        "catname": "Birthday",
+        "key": "birthday",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/birthday_1.webp",
+        "data": [{
+                "id": 216,
+                "cat_id": "Birthday",
+                "pack_identifier": "birthday2",
+                "tag_name": "birthday2",
+                "tags": "Celebrations, parties, cake, gifts, wishes, age, family, friends, traditions, milestones",
+                "tray_image_filelink": "https://sticker.fptechnologyservices.com/media/packs/birthday2/icon.png",
+                "tray_image_fileName": "icon.png",
+                "sticker_list_size": 17,
+                "premium": false,
+                "animated_sticker_pack": false,
+                "isNew": false,
+                "likes": 45977,
+                "watched": 979607,
+                "downloads": 70969
+            },
+            {
+                "id": 379,
+                "cat_id": "Birthday",
+                "pack_identifier": "Birthday6",
+                "tag_name": "Birthday6",
+                "tags": "Celebrations, parties, cake, gifts, wishes, age, family, friends, traditions, milestones",
+                "tray_image_filelink": "https://sticker.fptechnologyservices.com/media/packs/Birthday6/13.webp",
+                "tray_image_fileName": "13.webp",
+                "sticker_list_size": 20,
+                "premium": true,
+                "animated_sticker_pack": false,
+                "isNew": false,
+                "likes": 22675,
+                "watched": 412286,
+                "downloads": 125993
+            },
+            {
+                "id": 380,
+                "cat_id": "Birthday",
+                "pack_identifier": "Birthday7",
+                "tag_name": "Birthday7",
+                "tags": "Celebrations, parties, cake, gifts, wishes, age, family, friends, traditions, milestones",
+                "tray_image_filelink": "https://sticker.fptechnologyservices.com/media/packs/Birthday7/20.webp",
+                "tray_image_fileName": "20.webp",
+                "sticker_list_size": 20,
+                "premium": true,
+                "animated_sticker_pack": false,
+                "isNew": false,
+                "likes": 20939,
+                "watched": 1055373,
+                "downloads": 119146
+            },
+            {
+                "id": 347,
+                "cat_id": "Birthday",
+                "pack_identifier": "birthday5",
+                "tag_name": "birthday5",
+                "tags": "Celebrations, parties, cake, gifts, wishes, age, family, friends, traditions, milestones",
+                "tray_image_filelink": "https://sticker.fptechnologyservices.com/media/packs/birthday5/tray_1happybirthday.png",
+                "tray_image_fileName": "tray_1happybirthday.png",
+                "sticker_list_size": 22,
+                "premium": true,
+                "animated_sticker_pack": false,
+                "isNew": false,
+                "likes": 45076,
+                "watched": 1100696,
+                "downloads": 121982
+            },
+            {
+                "id": 295,
+                "cat_id": "Birthday",
+                "pack_identifier": "birthday3",
+                "tag_name": "birthday3",
+                "tags": "Celebrations, parties, cake, gifts, wishes, age, family, friends, traditions, milestones",
+                "tray_image_filelink": "https://sticker.fptechnologyservices.com/media/packs/birthday3/16.webp",
+                "tray_image_fileName": "16.webp",
+                "sticker_list_size": 28,
+                "premium": false,
+                "animated_sticker_pack": false,
+                "isNew": false,
+                "likes": 53256,
+                "watched": 289694,
+                "downloads": 143558
+            },
+            {
+                "id": 16,
+                "cat_id": "Birthday",
+                "pack_identifier": "birthday",
+                "tag_name": "birthday",
+                "tags": "Celebrations, parties, cake, gifts, wishes, age, family, friends, traditions, milestones",
+                "tray_image_filelink": "https://sticker.fptechnologyservices.com/media/packs/birthday/birthday_icon.png",
+                "tray_image_fileName": "birthday_icon.png",
+                "sticker_list_size": 29,
+                "premium": false,
+                "animated_sticker_pack": false,
+                "isNew": false,
+                "likes": 32890,
+                "watched": 966419,
+                "downloads": 107190
+            },
+            {
+                "id": 296,
+                "cat_id": "Birthday",
+                "pack_identifier": "birthday4",
+                "tag_name": "birthday4",
+                "tags": "Celebrations, parties, cake, gifts, wishes, age, family, friends, traditions, milestones",
+                "tray_image_filelink": "https://sticker.fptechnologyservices.com/media/packs/birthday4/10.webp",
+                "tray_image_fileName": "10.webp",
+                "sticker_list_size": 22,
+                "premium": false,
+                "animated_sticker_pack": false,
+                "isNew": false,
+                "likes": 52508,
+                "watched": 160325,
+                "downloads": 68344
+            }
+        ]
+    },
+    {
+        "catname": "Friends",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/sticker20.webp"
+    },
+    {
+        "catname": "Heart",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/26.webp"
+    },
+    {
+        "catname": "Lover",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/7.webp"
+    },
+    {
+        "catname": "Mr Bean",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/16.webp"
+    },
+    {
+        "catname": "Sports",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_images_dk3INjD.png"
+    },
+    {
+        "catname": "Halloween",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_image_y0s1laV.png"
+    },
+    {
+        "catname": "Girls",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_image_95oa7zE.png"
+    },
+    {
+        "catname": "Trending",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/Trending.png"
+    },
+    {
+        "catname": "Emoji",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/Emoj.png"
+    },
+    {
+        "catname": "Snow Ball",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/snowball.png"
+    },
+    {
+        "catname": "Wedding",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_image.png"
+    },
+    {
+        "catname": "Creativity",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_images_hgguNyL.png"
+    },
+    {
+        "catname": "Nature",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_images_9KGaI2D.png"
+    },
+    {
+        "catname": "Bitmoji",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/bitimoji.png"
+    },
+    {
+        "catname": "Festive",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/festive.png"
+    },
+    {
+        "catname": "Feature",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/feature.png"
+    },
+    {
+        "catname": "Memes",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/memes_437gp6O.png"
+    },
+    {
+        "catname": "Flowers",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/flower.png"
+    },
+    {
+        "catname": "Lapse",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/timeintervel.png"
+    },
+    {
+        "catname": "Slogan",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/catchwords.png"
+    },
+    {
+        "catname": "Jubilee",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/Anniversery.png"
+    },
+    {
+        "catname": "Bart Simp",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/14.webp"
+    },
+    {
+        "catname": "Celebrity",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/famouspersonality_wmi2wxL.png"
+    },
+    {
+        "catname": "Chat",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/chat.png"
+    },
+    {
+        "catname": "Cats",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/FunnyCat.png"
+    },
+    {
+        "catname": "Dogs",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/icon_wd5hY3M.png"
+    },
+    {
+        "catname": "Seasons",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_images.png"
+    },
+    {
+        "catname": "Motivation",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_icon.png"
+    },
+    {
+        "catname": "ThankYou",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/13.webp"
+    },
+    {
+        "catname": "Reactions",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/funnyreactions.png"
+    },
+    {
+        "catname": "Expressions",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/TAPEADO.webp"
+    },
+    {
+        "catname": "Relation",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/relationship_wJrp8O3.png"
+    },
+    {
+        "catname": "Animals",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/animalmeme.png"
+    },
+    {
+        "catname": "Smileys",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/25.webp"
+    },
+    {
+        "catname": "Police",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/6.webp"
+    },
+    {
+        "catname": "Food",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/category_images_Ka8ZqXF.png"
+    },
+    {
+        "catname": "Child",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/FunnyBabies.png"
+    },
+    {
+        "catname": "Movies",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/movies.png"
+    },
+    {
+        "catname": "Wishes",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/Wishes.png"
+    },
+    {
+        "catname": "Kiss",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/romance.png"
+    },
+    {
+        "catname": "Romance",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/download__1_-removebg-preview.png"
+    },
+    {
+        "catname": "Anime",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/anime.png"
+    },
+    {
+        "catname": "Cartoon",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/cartoon.png"
+    },
+    {
+        "catname": "Robots",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/robot.png"
+    },
+    {
+        "catname": "Valentine",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/Valentine.png"
+    },
+    {
+        "catname": "Cars",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/jpeg-optimizer_freepik-export-20240425113654Vw1H.png"
+    },
+    {
+        "catname": "Bikes",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/a006d717-faa9-4200-af00-1dc6f5377380-removebg-preview.png"
+    },
+    {
+        "catname": "Daily Messages",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/2690827-removebg-preview_1.png"
+    },
+    {
+        "catname": "AI Couples",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/35558f10-e069-473e-94f6-d1bef5d1149c-removebg-preview.png"
+    },
+    {
+        "catname": "Dark Fantasy",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/8_uQByMzV.webp"
+    },
+    {
+        "catname": "Premium Stickers",
+        "titleImage": "https://sticker.fptechnologyservices.com/media/titleImage/crown.png"
+    }
+]
